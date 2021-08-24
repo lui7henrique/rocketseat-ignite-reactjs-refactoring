@@ -1,5 +1,5 @@
 # :pizza: goRestaurant
-# :construction_worker: Executando o projeto na sua máquina 
+#### Executando o projeto na sua máquina 
 
 ```bash 
 # Clone o repositório
